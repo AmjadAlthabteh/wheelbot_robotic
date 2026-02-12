@@ -1,6 +1,6 @@
 # WheelBot Robotics Platform
 
-A modular robotics control and simulation framework written in modern C++ for autonomous mobile robots. This project simulates a four-wheeled robot platform with integrated battery management, motion control, and depth vision capabilities.
+Robotics control and simulation framework written in modern C++ for autonomous mobile robots. This project simulates a four-wheeled robot platform with integrated battery management, motion control, and depth vision capabilities.
 
 ## Purpose
 
