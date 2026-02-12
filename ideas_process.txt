@@ -1,0 +1,25 @@
+# RoboCore-SDK
+
+A modular robotics control simulation written in modern C++.
+
+## Features
+
+- 4-Wheel Drive Motion System
+- Torque-Limited Wheels (360 N�m)
+- Battery Management (0.864 kWh)
+- Depth Vision Simulation (D435i style)
+- Clean Layered Architecture
+
+## How To Build (GCC)
+
+Open terminal inside project folder and run:
+
+g++ -std=c++20 -Wall *.cpp Core/*.cpp Hardware/*.cpp Systems/*.cpp -o robot
+
+## How To Run
+
+On Windows:
+.\robot.exe
+
+On Linux / WSL:
+./robot
